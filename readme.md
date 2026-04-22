@@ -1,5 +1,5 @@
 # git course
-this full course of git
+this full course of git main
 
 # this is feature baranch conflictmain
 
