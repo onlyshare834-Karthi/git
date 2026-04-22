@@ -1,5 +1,4 @@
-console.log("I am working")
-
+console.log("I am Karthi")
 for(var i=0;i<5;i++){
-    console.log("Hi");
+    console.log("Hi i am working");
 }
